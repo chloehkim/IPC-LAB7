@@ -2,7 +2,7 @@
  *  internal_swap.c
  */
 
- #include <stdio.h>
+ #include <stdio.h>. //처음 *쓰면 포인터고 그다음에 사용하면 그 주소에 저장된 밸류를 의미한다.
 
  void internal_swap (int a, int b)
  {
